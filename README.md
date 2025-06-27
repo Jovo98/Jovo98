@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a Front-end developer looking to broaden my horizon and knowledge in the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.<br>Studied Front-end developement at Noroff School of Technologies.<br>Currently learning about Python.<br><br>
+### 💫 Jo Tan Vo
+I'm a Front-end developer looking to broaden my horizon and knowledge in the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.<br>Studied Front-End developement at Noroff School of Technologies.<br>Currently learning about Python.<br><br>
 
 
 ## 🌐 Socials:
